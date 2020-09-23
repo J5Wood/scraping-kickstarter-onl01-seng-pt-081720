@@ -17,6 +17,6 @@ image link:
 description:
   project.css("p.bbcard_blurb").text
 location:
-  project.css("ul.project-meta span.location-name").text
+  project.css("span.location-name").text
 
 create_project_hash
